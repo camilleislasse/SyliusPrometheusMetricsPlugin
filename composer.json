@@ -11,8 +11,8 @@
     "description": "Sylius Prometheus Metrics Plugin",
     "license": "MIT",
     "require": {
-        "php": "^8.0",
-        "sylius/sylius": "^1.14 || ^2.0",
+        "php": "^8.2",
+        "sylius/sylius": "^2.0",
         "artprima/prometheus-metrics-bundle": "~1.21.0"
     },
     "require-dev": {
